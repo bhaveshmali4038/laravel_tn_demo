@@ -73,8 +73,8 @@ The small captioned walkthrough is **72 seconds**, H.264, **1920 x 1080**, 10 fp
 
 The submission packager requires the SQL export, production manifest, and video; includes source, lockfiles, built assets and demo images; and excludes local environment secrets, dependencies, caches and the public upload link. Archive integrity and required contents are checked after generation.
 
-## Remaining external step
+## GitHub submission
 
-The local implementation and deliverables are complete. The user selected `https://github.com/bhaveshmali4038/laravel_tn_demo` for publication. The GitHub handoff includes code, SQL, screenshots, and the walkthrough video. Final upload status is confirmed in the chat after the remote revision is verified.
+The local implementation and deliverables are complete. Published to `https://github.com/bhaveshmali4038/laravel_tn_demo` on branch `main`. The repository includes code, SQL, screenshots, and the walkthrough video. Local environment secrets, dependency directories, runtime data, and generated ZIP files are excluded. The push succeeded and the final remote revision is verified against the local commit during handoff.
 
 These checks establish the behavior covered above. They do not claim that software can never contain an undiscovered defect, or that a public deployment has been tested.

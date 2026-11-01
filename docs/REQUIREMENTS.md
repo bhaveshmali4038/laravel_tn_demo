@@ -29,7 +29,7 @@ Source: the supplied three-page **Business Timing - Open Close - 3 to 5 yrs 3.pd
 | Document code and setup | README, architecture, inline comments | Reproduce setup and inspect source map |
 | Small usage video | `output/submission/business-timing-walkthrough.mp4` | Play/review the tutorial |
 | Latest code and database | Source ZIP, SQL export, demo uploads | Archive and fresh restore checks |
-| GitHub/Google Drive upload and URL | README external submission steps | Pending destination, upload, accessible link |
+| GitHub/Google Drive upload and URL | README external submission steps | Published to https://github.com/bhaveshmali4038/laravel_tn_demo on main |
 
 ## User clarifications
 

@@ -274,7 +274,7 @@ Export the latest local database after changes:
 
 The ZIP excludes `.env`, keys, `vendor`, `node_modules`, runtime logs/caches, and the generated `public/storage` link. It includes `.env.example`, both lockfiles, source, production frontend assets, demo uploads, and database/video deliverables. Follow setup after extraction.
 
-The PDF also asks for a **GitHub or Google Drive sharing link**. A local package does not complete that external step. The selected repository is [bhaveshmali4038/laravel_tn_demo](https://github.com/bhaveshmali4038/laravel_tn_demo). The code, SQL export, screenshots, and walkthrough video are prepared for this repository.
+The PDF also asks for a **GitHub or Google Drive sharing link**. A local package does not complete that external step. The selected repository is [bhaveshmali4038/laravel_tn_demo](https://github.com/bhaveshmali4038/laravel_tn_demo). The code, SQL export, screenshots, and walkthrough video are published on its `main` branch.
 
 1. Upload the ZIP to Google Drive with the intended evaluator access; or upload source, database, and video to a GitHub repository while preserving `.gitignore`.
 2. The walkthrough video is included at `output/submission/business-timing-walkthrough.mp4`. The generated ZIP remains ignored; optionally attach it to a GitHub release or share it through Drive.
